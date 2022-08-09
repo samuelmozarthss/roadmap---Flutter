@@ -1,5 +1,9 @@
 # Flutter Roadmap 2022
 
+(https://flutterrepos.com/lib/Tarikul711-flutter-development-roadmap)
+![image](https://user-images.githubusercontent.com/65967088/183721468-40591c97-1ffb-46ca-b37d-b630f37f10e6.png)
+
+
 O objetivo desse repositório é catalogar os conteúdos existentes na internet sobre Flutter e concatenar em uma espécie de "roadmap" para auxiliar os iniciantes.
 
 # Escrever códigos
